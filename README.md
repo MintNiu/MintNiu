@@ -29,7 +29,7 @@ const mintniu = {
 };
 ~~~
 
-我是一名 Java 后端开发者，也是蝙蝠侠爱好者。日常关注 Spring Boot、企业级后端、多租户系统、认证权限和领域建模；现在正在全面拥抱 AI，把它融入真实的工程和产品中。
+我是一名 Java 后端开发者。日常关注 Spring Boot、企业级后端、多租户系统、认证权限和领域建模；现在正在全面拥抱 AI，把它融入真实的工程和产品中。
 
 > **EN** · I build reliable backend systems, explore practical AI, and turn complex ideas into clear, maintainable products.
 
