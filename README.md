@@ -29,7 +29,7 @@ const mintniu = {
 };
 ~~~
 
-我是一名 Java 后端开发者。日常关注 Spring Boot、企业级后端、多租户系统、认证权限和领域建模；现在正在全面拥抱 AI，把它融入真实的工程和产品中。
+我是一名 Java 后端开发者，也是蝙蝠侠爱好者。日常关注 Spring Boot、企业级后端、多租户系统、认证权限和领域建模；现在正在全面拥抱 AI，把它融入真实的工程和产品中。
 
 > **EN** · I build reliable backend systems, explore practical AI, and turn complex ideas into clear, maintainable products.
 
@@ -43,9 +43,7 @@ const mintniu = {
 **Architecture** · Multi-tenancy · SSO · ACL · DDD · API Gateway  
 **AI** · Spring AI · RAG · Embeddings · Qdrant · AI-powered Applications
 
-## > CURRENT PROJECTS // 当前项目
-
-### Public Projects · 公开项目
+## > PUBLIC PROJECTS // 公开项目
 
 | Project | Description / 说明 |
 |---|---|
@@ -55,9 +53,9 @@ const mintniu = {
 | [The-process-of-growth](https://github.com/MintNiu/The-process-of-growth) | 开发过程中的问题与经验 / Notes from real-world development and engineering practice. |
 | [videograph-validation](https://github.com/MintNiu/videograph-validation) | GLSL 验证实验 / GLSL validation experiments. |
 
-### Product Work · 产品项目
+## > PRODUCT DEMO // 产品展示
 
-#### 🍲 把饭一吃 · BAFAN YICHI
+### 🍲 把饭一吃 · BAFAN YICHI
 
 <div align="center">
 
@@ -71,34 +69,11 @@ const mintniu = {
 
 > A WeChat mini program for deciding what to eat, with a mini-program client, Java backend and admin console.
 
-`bafan-web` · `bafan-backend` · `bafan-admin-web`（相关仓库为 Private）
+## > FOCUS AREAS // 关注方向
 
-#### 🤖 职业数字人 AI 实训平台 · VOCATIONAL AVATAR TRAINING
-
-数字人对话、TTS 播报、AI 评分和学习报告闭环 / Digital human dialogue, TTS, AI scoring and learning reports.
-
-`hks-vocational-avatar-training`（Private）
-
-#### 🧠 OpenJev 文本意图训练 · TEXT INTENT TRAINING
-
-中文文本意图训练、评测与可复现记录 / Chinese text-intent training and reproducible evaluation.
-
-`openjev-text-intent-training`（Private）
-
-<details>
-<summary>Platform modules · 企业级平台模块（Private）</summary>
-
-多租户企业平台的认证、网关、系统、文件、任务、ERP、DAC、HR、发布、集成与工作流模块；前后端仓库按领域拆分维护。
-
-`platform-auth` · `platform-gateway` · `platform-system` · `platform-common` · `platform-file` · `platform-job` · `platform-erp-service` · `platform-erp-front` · `platform-dac-service` · `platform-dac-front` · `platform-hr-service` · `platform-hr-front` · `platform-publishing-service` · `platform-publishing-mcp-service` · `platform-publishing-front` · `platform-integration` · `platform-log` · `platform-subsystem-service` · `platform-subsystem-front` · `platform-workflow-service` · `platform-workflow-front`
-
-</details>
-
-## > AI DIRECTION // AI 探索方向
-
-- **RAG + LLM Wiki**：文档解析、分片、索引、带引用问答、会话历史和 Wiki 构建。
-- **Reliable AI Runtime**：关注租户隔离、ACL、SSE、任务恢复和向量检索边界。
-- **Digital Human Exploration**：探索数字人对话、TTS 播报、AI 评分和学习报告闭环。
+- **Backend Architecture**：Java、Spring Boot、多租户、认证权限、DDD 和 API 设计。
+- **Practical AI**：Spring AI、RAG、向量检索、知识库问答和 AI-powered applications。
+- **Product Delivery**：把后端能力落到可使用的产品、工具和小程序中。
 
 ## > GITHUB STATS // 开源活动
 
