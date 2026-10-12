@@ -29,7 +29,7 @@ const mintniu = {
 };
 ~~~
 
-我是一名 AI 全栈开发者和 FDE（Forward Deployed Engineer），也是蝙蝠侠爱好者。以 Java 后端为基础，关注从产品需求、工程实现到 AI 应用落地的完整链路，擅长把想法快速变成可用产品。
+我是一名 JAVA出身的开发者，目前在做AI 全栈开发者和 FDE（Forward Deployed Engineer）。以 Java 后端为基础，关注从产品需求、工程实现到 AI 应用落地的完整链路，擅长把想法快速变成可用产品。
 
 > **EN** · I work as an AI full-stack developer and FDE, turning real-world needs into reliable software and practical AI products.
 
