@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="./profile-banner-bilingual-bat-v2.png" width="100%" alt="MintNiu — JAVA 后端开发者 · AI EXPLORER">
+<img src="./profile-banner-bilingual-bat-v2.png" width="100%" alt="MintNiu — AI 全栈开发者 · FDE">
 
 </div>
 
 <div align="center">
 
-### JAVA 后端开发者 · AI EXPLORER
+### AI 全栈开发者 · FDE
 
 **构建可靠系统 · 拥抱 AI / Build reliable systems · Embrace AI**
 
@@ -22,16 +22,16 @@
 
 ~~~ts
 const mintniu = {
-  role: "Java Backend Developer / Java 后端开发者",
+  role: "AI Full-Stack Developer / AI 全栈开发者 / FDE",
   focus: ["Spring Boot", "Multi-tenant Systems", "Auth & Permissions", "DDD"],
   exploring: ["Spring AI", "RAG", "Qdrant", "AI-powered Applications"],
   principle: "Build reliable systems. Embrace AI."
 };
 ~~~
 
-我是一名 Java 后端开发者，也是蝙蝠侠爱好者。日常关注 Spring Boot、企业级后端、多租户系统、认证权限和领域建模；现在正在全面拥抱 AI，把它融入真实的工程和产品中。
+我是一名 AI 全栈开发者和 FDE（Forward Deployed Engineer），也是蝙蝠侠爱好者。以 Java 后端为基础，关注从产品需求、工程实现到 AI 应用落地的完整链路，擅长把想法快速变成可用产品。
 
-> **EN** · I build reliable backend systems, explore practical AI, and turn complex ideas into clear, maintainable products.
+> **EN** · I work as an AI full-stack developer and FDE, turning real-world needs into reliable software and practical AI products.
 
 ## > TECH STACK // 技术栈
 
@@ -39,8 +39,8 @@ const mintniu = {
   <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,docker,git,github&perline=7" alt="Tech stack">
 </p>
 
-**Backend** · Java · Spring Boot · MySQL · Redis · MyBatis-Plus  
-**Architecture** · Multi-tenancy · SSO · ACL · DDD · API Gateway  
+**Engineering foundation** · Java · Spring Boot · MySQL · Redis · MyBatis-Plus  
+**Delivery** · API design · Multi-tenancy · SSO · ACL · DDD  
 **AI** · Spring AI · RAG · Embeddings · Qdrant · AI-powered Applications
 
 ## > PUBLIC PROJECTS // 公开项目
@@ -71,9 +71,9 @@ const mintniu = {
 
 ## > FOCUS AREAS // 关注方向
 
-- **Backend Architecture**：Java、Spring Boot、多租户、认证权限、DDD 和 API 设计。
+- **AI Full-stack Delivery**：以前后端工程能力为基础，把 AI 能力落到真实产品中。
+- **FDE Practice**：理解业务问题，快速验证方案，连接用户、代码和部署。
 - **Practical AI**：Spring AI、RAG、向量检索、知识库问答和 AI-powered applications。
-- **Product Delivery**：把后端能力落到可使用的产品、工具和小程序中。
 
 ## > GITHUB STATS // 开源活动
 
