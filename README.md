@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./profile-banner-ai-fullstack-fde-v3.png" width="100%" alt="MintNiu — AI 全栈开发者 · FDE，Java 后端出身">
+<img src="./profile-banner-ai-fullstack-fde-v3.jpg" width="100%" alt="MintNiu — AI 全栈开发者 · FDE，Java 后端出身">
 
 </div>
 
