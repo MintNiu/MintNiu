@@ -12,7 +12,6 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/MintNiu?style=flat-square&logo=github&label=Followers)](https://github.com/MintNiu)
 [![GitHub stars](https://img.shields.io/github/stars/MintNiu?style=flat-square&logo=github&label=Stars)](https://github.com/MintNiu?tab=repositories)
-[![Profile views](https://komarev.com/ghpvc/?username=MintNiu&style=flat-square&label=Profile+Views)](https://github.com/MintNiu)
 
 </div>
 
