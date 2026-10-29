@@ -12,6 +12,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/MintNiu?style=flat-square&logo=github&label=Followers)](https://github.com/MintNiu)
 [![GitHub stars](https://img.shields.io/github/stars/MintNiu?style=flat-square&logo=github&label=Stars)](https://github.com/MintNiu?tab=repositories)
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/MintNiu/badge.svg)](https://hub.xerj.org/contributors/MintNiu)
 
 </div>
 
